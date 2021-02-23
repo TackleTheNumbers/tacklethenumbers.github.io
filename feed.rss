@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<title>Tackle the Numbers</title>
+		<link>https://tacklethenumbers.gloriousrugby.com</link>
+		<language>en-us</language>
+		<itunes:subtitle>Breaking down the stats of Major League Rugby</itunes:subtitle>
+		<itunes:author>Alistair Poole</itunes:author>
+		<itunes:summary>Join host Alistair Poole on his journey through the statistics of North America&apos;s professional rugby scene. From stats-based power rankings of every team in the league to deep dives on the importance of scrums, this show aims to leave no number undiscussed. Comes out weekly during the season, and monthly in the offseason.</itunes:summary>
+		<description>
+			<![CDATA[Join host Alistair Poole on his journey through the statistics of North America's professional rugby scene. From stats-based power rankings of every team in the league to deep dives on the importance of scrums, this show aims to leave no number undiscussed. Comes out weekly during the season, and monthly in the offseason.]]>
+		</description>
+		<itunes:owner>
+			<itunes:name>Alistair Poole</itunes:name>
+			<itunes:email>tacklethenumbers@gloriousrugby.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://tacklethenumbers.github.io/images/tackle-the-number_cover.jpg" />
+		<copyright>Copyright 2021 Alistair Poole</copyright>
+		<itunes:category text="Sports">
+			<itunes:category text="Rugby" />
+		</itunes:category>
+		<itunes:category text="News">
+			<itunes:category text="Sports News" />
+		</itunes:category>
+		<itunes:category text="Science">
+			<itunes:category text="Mathematics" />
+		</itunes:category>
+
+<!--newItem-->
+
+	</channel>
+</rss>
