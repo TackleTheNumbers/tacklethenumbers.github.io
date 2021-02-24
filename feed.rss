@@ -27,6 +27,36 @@
 			<itunes:category text="Mathematics" />
 		</itunes:category>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title>Introducing Tackle the Numbers</title>
+			<itunes:summary><![CDATA[This podcast is dedicated to exploring the numbers and statistics behind Major League Rugby, North America's very own professional rugby competition. From stats-based power rankings of every team in the league to deep dives on the importance of scrums, this show aims to leave no stat undiscussed.
+
+Links
+Alternate Reality Explorer: https://gloriousrugby.com/alternate-reality/
+Beat the Machine: https://tacklethenumbers.gloriousrugby.com/
+
+Get in touch: tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[This podcast is dedicated to exploring the numbers and statistics behind Major League Rugby, North America's very own professional rugby competition. From stats-based power rankings of every team in the league to deep dives on the importance of scrums, this show aims to leave no stat undiscussed.
+
+Links
+Alternate Reality Explorer:&nbsp;https://gloriousrugby.com/alternate-reality/
+Beat the Machine: https://tacklethenumbers.gloriousrugby.com/
+
+Get in touch: tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://tacklethenumbers.github.io/episodes/000-Introducing-Tackle-the-Numbers.mp3" length="2426104" type="audio/mpeg"/>
+			<itunes:duration>143</itunes:duration>
+			<guid isPermaLink="false">https://tacklethenumbers.github.io/episodes/000-Introducing-Tackle-the-Numbers.mp3</guid>
+			<pubDate>Tue, 23 Feb 2021 12:00:00 EST</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>trailer</itunes:episodeType>
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
