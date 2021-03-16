@@ -56,6 +56,30 @@ Get in touch: tacklethenumbers@gloriousrugby.com
 			<itunes:episode>1</itunes:episode>
 			<itunes:season>1</itunes:season>
 		</item>
+		
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title>The Model</title>
+			<itunes:summary><![CDATA[In this episode of Tackle the Numbers, I dive deep into my predictive model for Major League Rugby. I get into the philosophy behind it, as well as explaining how it works and why.
+
+Beat the Machine: https://tacklethenumbers.gloriousrugby.com/
+
+Get in touch: tacklethenumbers@gloriousrugby.com]]></itunes:summary>
+			<description><![CDATA[In this episode of Tackle the Numbers, I dive deep into my predictive model for Major League Rugby. I get into the philosophy behind it, as well as explaining how it works and why.
+
+Beat the Machine: https://tacklethenumbers.gloriousrugby.com/
+
+Get in touch: tacklethenumbers@gloriousrugby.com]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/https://tacklethenumbers.github.io/episodes/001-The-Model.mp3" length="6848000" type="audio/mpeg"/>
+			<itunes:duration>776</itunes:duration>
+			<guid isPermaLink="false">https://tacklethenumbers.github.io/episodes/001-The-Model.mp3</guid>
+			<pubDate>Tue, 23 Feb 2021 12:00:00 EST</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
 
 <!--newItem-->
 
