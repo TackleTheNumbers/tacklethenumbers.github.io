@@ -81,6 +81,32 @@ Get in touch: tacklethenumbers@gloriousrugby.com]]></description>
 			<itunes:season>1</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[2021 Season Preview & Week 1 Matches]]></title>
+			<itunes:summary><![CDATA[In this episode I lay out where each team stands at the start of the season. Toronto and San Diego are at the top, but some of the other teams may surprise you. After that, I dive into the week 1 matches and what my predictive model can tell us about each matchup.
+
+Pick against my system at https://tacklethenumbers.gloriousrugby.com
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[In this episode I lay out where each team stands at the start of the season. Toronto and San Diego are at the top, but some of the other teams may surprise you. After that, I dive into the week 1 matches and what my predictive model can tell us about each matchup.
+
+Pick against my system at https://tacklethenumbers.gloriousrugby.com
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/003-Season-Preview.mp3" length="11120000" type="audio/mpeg"/>
+			<itunes:duration>869</itunes:duration>
+			<guid isPermaLink="false">2021-003</guid>
+			<pubDate>Fri, 19 Mar 2021 10:00:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
