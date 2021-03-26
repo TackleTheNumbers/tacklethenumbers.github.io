@@ -107,6 +107,32 @@ Contact me at tacklethenumbers@gloriousrugby.com
 			<itunes:season>1</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[Week 1 Review + Week 2 Preview]]></title>
+			<itunes:summary><![CDATA[Week 1 was exactly as crazy and wonderfully as we could have every hoped. Favorites fell and challengers rose in tight matches all weekend long. I'll break down the numbers of what we saw, and wht it tells us going into next week.
+
+Pick against my model at https://tacklethenumbers.gloriousrugby.com
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[Week 1 was exactly as crazy and wonderfully as we could have every hoped. Favorites fell and challengers rose in tight matches all weekend long. I'll break down the numbers of what we saw, and wht it tells us going into next week.
+
+Pick against my model at https://tacklethenumbers.gloriousrugby.com
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/004-Week-1-Review-Week-2-Preview.mp3" length="9886865" type="audio/mpeg"/>
+			<itunes:duration>760</itunes:duration>
+			<guid isPermaLink="false">2021-004</guid>
+			<pubDate>Thu, 25 Mar 2021 22:00:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
