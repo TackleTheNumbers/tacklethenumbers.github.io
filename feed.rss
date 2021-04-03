@@ -133,6 +133,34 @@ Contact me at tacklethenumbers@gloriousrugby.com
 			<itunes:season>1</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[Week 2]]></title>
+			<itunes:summary><![CDATA[Week two has come and gone, leaving absolute chaos in it's wake. We saw a shut out, several upsets, and 57 point blowout. I break down all of it in this video, and put forward some predictions for next week.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[Week two has come and gone, leaving absolute chaos in it's wake. We saw a shut out, several upsets, and 57 point blowout. I break down all of it in this video, and put forward some predictions for next week.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/005-Week-2.mp3" length="12876112" type="audio/mpeg"/>
+			<itunes:duration>978</itunes:duration>
+			<guid isPermaLink="false">2021-005</guid>
+			<pubDate>Fri, 02 Apr 2021 22:00:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
