@@ -189,6 +189,34 @@ Contact me at tacklethenumbers@gloriousrugby.com
 			<itunes:season>1</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[Week 6]]></title>
+			<itunes:summary><![CDATA[Finally, some sanity! Week 6 brought very few upsets and some brilliant rugby. I look at how it affected the rankings and preview next weekend's matches.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[Finally, some sanity! Week 6 brought very few upsets and some brilliant rugby. I look at how it affected the rankings and preview next weekend's matches.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/006-Week-4.mp3" length="10265413" type="audio/mpeg"/>
+			<itunes:duration>775</itunes:duration>
+			<guid isPermaLink="false">2021-008</guid>
+			<pubDate>Fri, 23 Apr 2021 22:00:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
