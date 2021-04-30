@@ -217,6 +217,34 @@ Contact me at tacklethenumbers@gloriousrugby.com
 			<itunes:season>1</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[Week 7]]></title>
+			<itunes:summary><![CDATA[Officially back on track with my predictions, I dive into how week 6 of Major League Rugby affected the rankings and put forward predictions for week 7.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[Officially back on track with my predictions, I dive into how week 6 of Major League Rugby affected the rankings and put forward predictions for week 7.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/009-Week-7.mp3" length="10079532" type="audio/mpeg"/>
+			<itunes:duration>771</itunes:duration>
+			<guid isPermaLink="false">2021-009</guid>
+			<pubDate>Fri, 30 Apr 2021 18:30:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>9</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
