@@ -245,6 +245,34 @@ Contact me at tacklethenumbers@gloriousrugby.com
 			<itunes:season>1</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[Week 11]]></title>
+			<itunes:summary><![CDATA[After a few weeks for microphone problems, I'm back to tackle reiews of the week 10 matches and preview the upcoming matches for week 11.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[After a few weeks for microphone problems, I'm back to tackle reiews of the week 10 matches and preview the upcoming matches for week 11.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/013-Week-11.mp3" length="8545845" type="audio/mpeg"/>
+			<itunes:duration>698</itunes:duration>
+			<guid isPermaLink="false">2021-013</guid>
+			<pubDate>Fri, 28 Mar 2021 20:00:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>13</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
