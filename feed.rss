@@ -329,6 +329,34 @@ Contact me at tacklethenumbers@gloriousrugby.com
 			<itunes:season>1</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[Week 15]]></title>
+			<itunes:summary><![CDATA[The playoff race is looking like it will come down to the wire as exciting matches from week 14 reshaped the field. I'll take a look at those matches and what they mean mean for next week's matches.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[The playoff race is looking like it will come down to the wire as exciting matches from week 14 reshaped the field. I'll take a look at those matches and what they mean mean for next week's matches.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/017-Week-15.mp3" length="9226390" type="audio/mpeg"/>
+			<itunes:duration>749</itunes:duration>
+			<guid isPermaLink="false">2021-017</guid>
+			<pubDate>Fri, 25 Jun 2021 19:30:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>17</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
