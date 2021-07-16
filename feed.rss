@@ -405,11 +405,39 @@ Contact me at tacklethenumbers@gloriousrugby.com
 ]]></description>
 			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/019-Week-17.mp3" length="6909808" type="audio/mpeg"/>
 			<itunes:duration>558</itunes:duration>
-			<guid isPermaLink="false">2021-018</guid>
+			<guid isPermaLink="false">2021-019</guid>
 			<pubDate>Fri, 9 Jul 2021 22:00:00 EDT</pubDate>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:episode>19</itunes:episode>
+			<itunes:season>1</itunes:season>
+		</item>
+
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Poole</itunes:author>
+			<title><![CDATA[Week 18]]></title>
+			<itunes:summary><![CDATA[The playoff spots have been all but decided in a week that saw efficient blowouts and dramatic upsets. I break it all down in this week's episode.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[The playoff spots have been all but decided in a week that saw efficient blowouts and dramatic upsets. I break it all down in this week's episode.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+Watch this episode on Youtube: https://www.youtube.com/watch?v=5Bo2LLjnxVc
+
+Contact me at tacklethenumbers@gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/020-Week-18.mp3" length="9400078" type="audio/mpeg"/>
+			<itunes:duration>763</itunes:duration>
+			<guid isPermaLink="false">2021-020</guid>
+			<pubDate>Thu, 15 Jul 2021 22:00:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>20</itunes:episode>
 			<itunes:season>1</itunes:season>
 		</item>
 
