@@ -467,6 +467,28 @@ Contact me at tacklethenumbers@gloriousrugby.com
 			<itunes:season>2</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Kirsch-Poole</itunes:author>
+			<title><![CDATA[Week 2 - MLR 2022]]></title>
+			<itunes:summary><![CDATA[An episode that covers my good picks from last weekend and out-of-date predictions for the Thursday match this week.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[An episode that covers my good picks from last weekend and out-of-date predictions for the Thursday match this week.
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/22w2.mp3" length="6849328" type="audio/mpeg"/>
+			<itunes:duration>538</itunes:duration>
+			<guid isPermaLink="false">22w2</guid>
+			<pubDate>Thu, 10 Feb 2022 22:50:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>2</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
