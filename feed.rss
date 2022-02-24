@@ -511,6 +511,28 @@ Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
 			<itunes:season>2</itunes:season>
 		</item>
 
+		<item>
+			<link>https://tacklethenumbers.gloriousrugby.com</link>
+			<itunes:author>Alistair Kirsch-Poole</itunes:author>
+			<title><![CDATA[Week 4 - MLR 2022]]></title>
+			<itunes:summary><![CDATA[Last week saw an expected correction in the model's picks. Still, It's doing well this season. how will it do this upcoming week?
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+]]></itunes:summary>
+			<description><![CDATA[Last week saw an expected correction in the model's picks. Still, It's doing well this season. how will it do this upcoming week?
+
+Pick against my numbers at https://tacklethenumbers.gloriousrugby.com
+]]></description>
+			<enclosure url="https://dts.podtrac.com/redirect.mp3/tacklethenumbers.github.io/episodes/22w4.mp3" length="6949437" type="audio/mpeg"/>
+			<itunes:duration>550</itunes:duration>
+			<guid isPermaLink="false">22w4</guid>
+			<pubDate>Wed, 24 Feb 2022 18:25:00 EDT</pubDate>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>2</itunes:season>
+		</item>
+
 <!--newItem-->
 
 	</channel>
